@@ -1,1 +1,2 @@
-# Simple Quizz application make in python
+# quizz-py
+quizz-py
